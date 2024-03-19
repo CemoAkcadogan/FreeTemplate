@@ -1,1 +1,1 @@
-# FreeTamplate
+# FreeTemplate
